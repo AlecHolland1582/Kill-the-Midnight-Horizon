@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'The Rambler';
-    src: url('TheRambler.woff2') format('woff2'),
-        url('TheRambler.woff') format('woff');
+    src: url('https://rawcdn.githack.com/AlecHolland1582/Kill-the-Midnight-Horizon/1a5f0b7a2cfb0855c5eb7bad925dffadf90e21e6/TheRambler.woff2') format('woff2'),
+        url('https://rawcdn.githack.com/AlecHolland1582/Kill-the-Midnight-Horizon/4d7ce510aca646a61ddc37e83e689b4c6ce3d4c6/TheRambler.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'WhiteAmour';
-    src: url('WhiteAmour-SanSerif.woff2') format('woff2'),
-        url('WhiteAmour-SanSerif.woff') format('woff');
+    src: url('https://rawcdn.githack.com/AlecHolland1582/Kill-the-Midnight-Horizon/1a5f0b7a2cfb0855c5eb7bad925dffadf90e21e6/WhiteAmour-SanSerif.woff2') format('woff2'),
+        url('https://rawcdn.githack.com/AlecHolland1582/Kill-the-Midnight-Horizon/1a5f0b7a2cfb0855c5eb7bad925dffadf90e21e6/WhiteAmour-SanSerif.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
