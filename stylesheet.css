@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'The Rambler';
+    src: url('TheRambler.woff2') format('woff2'),
+        url('TheRambler.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'WhiteAmour';
+    src: url('WhiteAmour-SanSerif.woff2') format('woff2'),
+        url('WhiteAmour-SanSerif.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
